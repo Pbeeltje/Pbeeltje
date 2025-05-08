@@ -1,2 +1,2 @@
-I'm Philip Beeltje, I'm currently learning to use Python and Javascript.
+I'm Philip Beeltje currently employed as a developer. 
 
